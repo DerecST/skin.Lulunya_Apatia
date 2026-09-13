@@ -1,0 +1,30 @@
+{
+  "pack": {
+    "pack_format": 88,
+    "min_format": [88,0],
+    "max_format": [88,0],
+    "description": {
+      "text": "Created By ",
+      "extra": [
+        {
+          "text": "Derec S.T. ",
+          "color": "dark_aqua"
+        },
+        {
+          "player": {
+            "name": "aoi_mint"
+          },
+          "object": "player"
+        },
+        {
+          "text": "\nSee "
+        },
+        {
+          "text": "READ ME",
+          "color": "gold"
+        },
+        " for terms of use."
+      ]
+    }
+  }
+}

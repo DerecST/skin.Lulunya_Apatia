@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_transmute",
+  "show_notification": false,
+  "category": "misc",
+  "input": "minecraft:golden_helmet",
+  "material": "minecraft:black_dye",
+  "material_count": 1,
+  "add_material_count_to_result": false,
+  "result": {
+    "id": "minecraft:golden_helmet",
+    "components": {
+      "minecraft:item_model": ".drc:rrn_head",
+      "minecraft:equippable": {
+        "slot": "head",
+        "equip_sound": "minecraft:item.armor.equip_gold"
+      }
+    },
+    "count": 1
+  }
+}

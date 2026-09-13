@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_transmute",
+  "show_notification": false,
+  "category": "misc",
+  "input": "minecraft:turtle_helmet",
+  "material": "minecraft:amethyst_shard",
+  "material_count": 1,
+  "add_material_count_to_result": false,
+  "result": {
+    "id": "minecraft:turtle_helmet",
+    "components": {
+      "minecraft:item_model": "minecraft:turtle_helmet",
+      "minecraft:equippable": {
+        "slot": "head",
+        "equip_sound": "minecraft:item.armor.equip_turtle",
+        "asset_id": "minecraft:turtle_scute"
+      }
+    },
+    "count": 1
+  }
+}
