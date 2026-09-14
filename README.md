@@ -3,6 +3,13 @@
 ## 概要
 YouTubeなどで活動されているルルーニャ・アパティア/Lulunya Apatia様をモデルにしたファンメイドコンテンツです。
 
+<img src="images/Lulunya_Skin.gif" width="300">
+
+頭装備アリ/Helmet Equipped
+
+<img src="images/Lulunya_head_ac.png" width="500">
+
+
 ## 対応環境
 Minecraft Java Edition Ver.26.2
 
