@@ -9,7 +9,7 @@
   "result": {
     "id": "minecraft:iron_helmet",
     "components": {
-      "minecraft:item_model": ".drc:rrn_head",
+      "minecraft:item_model": ".drc:lln_head",
       "minecraft:equippable": {
         "slot": "head",
         "equip_sound": "minecraft:item.armor.equip_iron"
